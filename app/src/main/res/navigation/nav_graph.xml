@@ -11,8 +11,8 @@
         android:label="Home"
         tools:layout="@layout/fragment_home" />
     <fragment
-        android:id="@+id/helpFragment"
+        android:id="@+id/help_fragment"
         android:name="ir.sample.navdrawertest.HelpFragment"
-        android:label="Help"
-        tools:layout="@layout/fragment_help" />
+        android:label="Help" tools:layout="@layout/fragment_help"
+        />
 </navigation>
