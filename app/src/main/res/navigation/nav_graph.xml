@@ -8,11 +8,11 @@
     <fragment
         android:id="@+id/fragmentHome"
         android:name="ir.sample.navdrawertest.FragmentHome"
-        android:label="fragment_home"
+        android:label="Home"
         tools:layout="@layout/fragment_home" />
     <fragment
         android:id="@+id/helpFragment"
         android:name="ir.sample.navdrawertest.HelpFragment"
-        android:label="fragment_help"
+        android:label="Help"
         tools:layout="@layout/fragment_help" />
 </navigation>
